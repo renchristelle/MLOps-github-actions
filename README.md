@@ -1,3 +1,6 @@
+[![Python application test with Github Actions](https://github.com/renchristelle/MLOps-github-actions/actions/workflows/main.yml/badge.svg)](https://github.com/renchristelle/MLOps-github-actions/actions/workflows/main.yml)
+
+
 # MLOps-github-actions
 This is a repo for building out Github Actions CI pipeline demo
 
