@@ -1,6 +1,10 @@
 install: 
 	pip install --upgrade pip &&\
 		pip install -r requirements.txt
+
+install-gcp: 
+	pip install --upgrade pip &&\
+		pip install -r requirements-gcp.txt
 		
 format:
 	black *.py
