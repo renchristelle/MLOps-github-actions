@@ -1,4 +1,4 @@
-[![Python application test with Github Actions](https://github.com/renchristelle/MLOps-github-actions/actions/workflows/main.yml/badge.svg)](https://github.com/renchristelle/MLOps-github-actions/actions/workflows/main.yml)
+[![AWS Python 3.7 application test with Github Actions](https://github.com/renchristelle/MLOps-github-actions/actions/workflows/aws.yml/badge.svg)](https://github.com/renchristelle/MLOps-github-actions/actions/workflows/aws.yml)
 
 
 # MLOps-github-actions
